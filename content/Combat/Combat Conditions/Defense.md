@@ -1,0 +1,1 @@
+Subtract X from damage they receive

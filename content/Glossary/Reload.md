@@ -1,0 +1,1 @@
+Takes X amount of actions to be usable again

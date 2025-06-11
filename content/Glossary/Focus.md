@@ -1,0 +1,1 @@
+You may spend 1 Action and gain +4 Damage, for each followed Focus this Damage Doubles (x2) to a max. of 32. When you attack Focus resets to 0

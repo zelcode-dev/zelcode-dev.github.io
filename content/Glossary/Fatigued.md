@@ -1,0 +1,1 @@
+All rolls while Fatigued are done with 1 [[Basic System#Banes and Boons|Banes]] and each instance of **Stress** damage is added a **+2**

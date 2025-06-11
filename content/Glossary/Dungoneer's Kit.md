@@ -1,0 +1,1 @@
+Contains 1 Lamp, Flint and Steel, Armor and Weapon maintenance tools, 3m Rope, 3m Pole

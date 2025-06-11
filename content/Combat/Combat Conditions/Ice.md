@@ -1,0 +1,5 @@
+- Ice acts as a Wall
+- When Ice receives any kind of damage it gets destroyed
+- Units that are in a square that turn into Ice are Frozen
+- Frozen Units cannot do any maneuver. Expect Interact to break the Ice they are currently in
+- Any damage to a Frozen Unit is negated, but will free the unit.

@@ -1,0 +1,1 @@
+Prevent the next instance of Damage this Unit would get, after that the shield breaks

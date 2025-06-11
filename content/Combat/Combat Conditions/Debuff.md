@@ -1,0 +1,1 @@
+Subtract X from Damage you deal

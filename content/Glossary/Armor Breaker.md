@@ -1,0 +1,1 @@
+[[Boost]] 2 to all damage done to Armor

@@ -1,0 +1,1 @@
+Each time it CRITs, add +1 to the damage

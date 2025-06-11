@@ -1,0 +1,2 @@
+- May not perform any maneuver which is not a move type. Except for Interact or React
+- Fog overrides [[Fire]]

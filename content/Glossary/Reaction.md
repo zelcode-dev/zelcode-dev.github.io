@@ -1,0 +1,1 @@
+You may use this ability outside your turn but spending the action cost for your next turn

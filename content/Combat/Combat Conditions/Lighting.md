@@ -1,0 +1,2 @@
+- Does 1d6 of Damage to all characters wearing Metal Armor
+- Striking [[Fog]] With Lighting causes an Explosion, dealing 2d4 of lighting damage and making the [[Fog]] disappear 

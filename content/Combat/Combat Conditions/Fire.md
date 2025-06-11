@@ -1,0 +1,4 @@
+- Starting your turn in Fire gives you 1d6 Fire Damage
+- Moving into or out of Fire gives you 1d6 Fire Damage
+- You can put out Fire with 1 Interaction 
+- Fire overrides [[Fog]]

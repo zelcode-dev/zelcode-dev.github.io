@@ -1,0 +1,1 @@
+Units cannot target you, if they know your location they have a 50% chance of missing, doing any kind of attack action stops the Invisibility 
