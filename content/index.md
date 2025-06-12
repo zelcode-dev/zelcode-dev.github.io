@@ -29,7 +29,7 @@ Narrative Mechanics
 [[Progression]]
 - [[Progression#Combat Style|Combat Styles]]
 - [[Paths]]
-[[Downtime & Exploration]]
+- [[Downtime & Exploration]]
 - [[Downtime & Exploration#Time Frames|Time Frames]]
 - [[Downtime & Exploration#Wilderness and Survival|Wilderness and Survival]]
 - [[Downtime & Exploration#Resting|Resting]]
@@ -47,7 +47,7 @@ Narrative Mechanics
 	- [[Blade Style]]
 	- [[Shadow Style]]
 	- [[White Magic Style]]
-	Specialization
+- Specialization
 	- WORK IN PROGRESS
 [[Inventory]]
 - [[Item List]]
