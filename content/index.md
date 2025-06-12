@@ -12,21 +12,21 @@ This Page is filled with [[Links]], if you hover a link, you can preview it's co
 
 **Index**
 
-[[Basic System]]
+- [[Basic System]]
 - [[Basic System#Main Attributes|Attributes]]
 - [[Basic System#Rolling the Dice|Rolling the Dice]]
 - [[Doom Dice]]
 - [[Banes and Boons]]
-[[Skill System]]
+- [[Skill System]]
 - Professions
 - Hobbies
 - Cultures
-Narrative Mechanics
+- Narrative Mechanics
 - [[Stress]]
 - [[Belief and Sin]]
 - [[Belief and Sin#Hope|Hopes]]
 - [[Bond]]
-[[Progression]]
+- [[Progression]]
 - [[Progression#Combat Style|Combat Styles]]
 - [[Paths]]
 - [[Downtime & Exploration]]
@@ -34,8 +34,8 @@ Narrative Mechanics
 - [[Downtime & Exploration#Wilderness and Survival|Wilderness and Survival]]
 - [[Downtime & Exploration#Resting|Resting]]
 - [[Downtime & Exploration#Downtime Activities|Downtime Activities]]
-[[Character Creation]]
-[[Combat]]
+- [[Character Creation]]
+- [[Combat]]
 - Apprentice Techniques
 	- [[Bastion]]
 	- [[Sage]]
@@ -49,6 +49,6 @@ Narrative Mechanics
 	- [[White Magic Style]]
 - Specialization
 	- WORK IN PROGRESS
-[[Inventory]]
+- [[Inventory]]
 - [[Item List]]
 
